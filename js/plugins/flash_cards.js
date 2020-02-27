@@ -54,6 +54,8 @@ $(document).ready(function(){
   $('#keyboard_shortcuts_toggle').click(function(){
     $('#keyboard_shortcuts').fadeToggle();
   });
+
+  console.log("https://toilamit.com");
 });
 
 
